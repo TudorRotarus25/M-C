@@ -47,7 +47,7 @@ header .top-nav .navigation { background: #ffbba5; position: absolute; top: 80px
 header .top-nav .navigation-content { position: relative; width: 100%; height: 100%; }
 header .top-nav .navigation-content .links { position: absolute; top: 50%; left: 0; right: 0; transform: translateY(-50%); text-align: right; }
 header .top-nav .navigation-content .links li { display: inline-block; }
-header .top-nav .navigation-content .links li a { padding: 19px 0; margin: 0 1em; font-size: 1.5em; font-weight: bold;  color: #000a53; text-decoration: none; transition: 0.1s; }
+header .top-nav .navigation-content .links li a { padding: 19px 0; margin: 0 1em; font-size: 1.4em; letter-spacing: 2px; font-weight: bold;  color: #000a53; text-decoration: none; transition: 0.1s; }
 header .top-nav .navigation-content .links li a:hover { border-bottom: 5px solid #000a53; }
 header .linkedin { font-size: 35px; position: absolute; top: 14px; right: 1.5em; }
 header .linkedin ul li a i { height: 40px; width: 40px; padding: 6px; text-align: center; color: #fff; }
@@ -64,8 +64,8 @@ header .linkedin ul li a#linkedin-camille i { background-color: #ffbba5; }
 .image-container.left img { float: right; }
 
 .main-col .row { transition: 0.5s; }
-.main-col .row:hover { -webkit-filter: grayscale(100%); filter: grayscale(100%); }
-.main-col .row .image-container img { transition: 0.5s; }
+.main-col .row:hover .image-container img { -webkit-filter: grayscale(100%); filter: grayscale(0%); }
+.main-col .row .image-container img { transition: 0.5s; -webkit-filter: grayscale(100%); filter: grayscale(100%); }
 .main-col .row:hover .image-container.landscape img { width: 93%; }
 .main-col .row:hover .image-container.portrait img { width: 73%; }
 .main-col .text-container { position: relative; height: 100%; width: 100%; }
@@ -73,11 +73,12 @@ header .linkedin ul li a#linkedin-camille i { background-color: #ffbba5; }
 .main-col .text-on-left .text-container .text-container-centered { position: absolute; left: 0; right: 0; top: 50%; padding-left: 85px; transform: translateY(-50%); border: 1px solid #000a53; border-left: 0; border-right: 0; }
 .main-col .text-container .text-container-centered span { display: inline-block; text-align: center; }
 .main-col .text-container .text-container-centered .top-row { border-bottom: 1px solid #000a53; font-size: 30px; font-weight: bold; padding: 10px 0; }
+.main-col .text-container .text-container-centered .top-row .second { border-left: 1px solid #000a53; }
 .main-col .text-container .text-container-centered .bottom-row { padding: 10px 0; }
 .main-col .text-container .text-container-centered .bottom-row .first { font-style: italic; }
-.main-col .text-container .text-container-centered .bottom-row.reversed .first { border-right: 0; border-left: 1px solid #000a53; }
-.main-col .text-container .text-container-centered .bottom-row .second { font-size: 1.5em; }
-.main-col .text-container .text-container-centered .first { border-right: 1px solid #000a53; }
+.main-col .text-container .text-container-centered .bottom-row .second { font-size: 1.5em; border-left: 1px solid #000a53; }
+.main-col .text-container .text-container-centered .bottom-row.reversed .first { border-left: 1px solid #000a53; border-right: 0; }
+.main-col .text-container .text-container-centered .bottom-row.reversed .second { border-left: 0; }
 .main-col .text-container .work-number { position: absolute; top: 50%; font-size: 70px; color: #ffbba5; border-top: 1px solid #000a53; font-weight: bold; }
 .main-col .text-on-right .text-container .work-number { transform: translateY(-50%) rotate(-90deg); right: 10px; }
 .main-col .text-on-left .text-container .work-number { transform: translateY(-50%) rotate(90deg); left: 10px; }
@@ -94,12 +95,12 @@ header .linkedin ul li a#linkedin-camille i { background-color: #ffbba5; }
 .modal .contact p { margin-top: 6px; margin-bottom: 6px; }
 
 /*  FOOTER  */
-footer { position: relative; background: #ffbba5; height: 69px; color: #000a53; font-family: Footer; }
+footer { position: relative; background: #ffbba5; height: 69px; color: #000a53; font-family: Acid; font-weight: bold; letter-spacing: 2px; font-size: 1.3em; }
 footer .copyright { position: absolute; left: 3em; top: 50%; transform: translateY(-50%); }
 footer .linkedin { position: absolute; left: 3em; right: 3em; top: 50%; transform: translateY(-50%); text-align: center; }
 footer .email { position: absolute; right: 3em; top: 50%; transform: translateY(-50%); }
 footer .footer-container > div { display: inline-block }
 .linkedin ul li { display: inline-block; margin: 0 10px; }
-.linkedin ul li a i { color: #ffbba5; background: #000a53; border-radius: 100%; padding: 4px 5px; }
+.linkedin ul li a i { color: #ffbba5; background: #000a53; border-radius: 100%; padding: 5px 6px; }
 .linkedin ul li a span { color: #000a53; margin: 0 10px;}
 
