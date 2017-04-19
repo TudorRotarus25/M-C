@@ -49,9 +49,10 @@ header .top-nav .navigation-content .links { position: absolute; top: 50%; left:
 header .top-nav .navigation-content .links li { display: inline-block; }
 header .top-nav .navigation-content .links li a { padding: 19px 0; margin: 0 1em; font-size: 1.4em; letter-spacing: 2px; font-weight: bold;  color: #000a53; text-decoration: none; transition: 0.1s; }
 header .top-nav .navigation-content .links li a:hover { border-bottom: 5px solid #000a53; }
-header .linkedin { font-size: 35px; position: absolute; top: 14px; right: 1.5em; }
-header .linkedin ul li a i { height: 40px; width: 40px; padding: 6px; text-align: center; color: #fff; }
-header .linkedin ul li a#linkedin-camille i { background-color: #ffbba5; }
+header .linkedin { font-size: 35px; position: absolute; top: 18px; right: 1.5em; }
+header .linkedin ul li { display: inline-block; margin: 0 15px; }
+header .linkedin ul li a img { height: 45px; width: 45px; transition: 0.1s; }
+/*header .linkedin ul li a:hover img { opacity: 0.3; }*/
 
 /*  CONTAINERS  */
 .section-title { display: inline-block; padding-left: 3em; padding-right: 10px; margin: 30px 0;  color: #000a53; background: #ffbba5; }
@@ -86,13 +87,20 @@ header .linkedin ul li a#linkedin-camille i { background-color: #ffbba5; }
 #about { margin-top: 50px; }
 .label-col { padding: 0 3em; }
 
-/*  MODAL  */
-.modal { display: none; position: fixed; top: 135px; right: 120px; background: #000a53; color: #ffbba5; z-index: 999; }
-.modal .modal-wrapper { position: relative; height: 100%; padding: 1em 1em 2em; text-align: center; }
-.modal .social-media { font-size: 1.5em; }
-.modal ul li { display: inline-block; text-decoration: none; padding: 1em; }
-.modal ul li a { color: #ffbba5; }
-.modal .contact p { margin-top: 6px; margin-bottom: 6px; }
+/*  WORK PAGES  */
+.work-page .work-header .title-container { letter-spacing: 2px; margin-bottom: 0.5em; }
+.work-page .work-header h2 { font-size: 2.5em; }
+.work-page .work-header h3 { font-size: 1.6em; }
+.work-page .work-header .main-image img { width: 100%; }
+.work-page .work-content { margin-top: 20px; }
+.work-page .work-content .credit-group { margin-bottom: 20px; }
+.work-page .work-content .credits { font-size: 1.5em; }
+.work-page .work-content .description { font-size: 1.5em; }
+.work-page .work-content .description p { margin-bottom: 20px; }
+.work-page .work-content .description .main-description  { font-weight: bold; }
+.work-page .work-bottom .extra-pics { text-align: center; }
+.work-page .work-bottom .extra-pics .pic-small { display: inline-block; max-width: 250px; }
+.work-page .work-bottom .extra-pics .pic-small img { width: 100%; }
 
 /*  FOOTER  */
 footer { position: relative; background: #ffbba5; height: 69px; color: #000a53; font-family: Acid; font-weight: bold; letter-spacing: 2px; font-size: 1.3em; }
@@ -100,7 +108,7 @@ footer .copyright { position: absolute; left: 3em; top: 50%; transform: translat
 footer .linkedin { position: absolute; left: 3em; right: 3em; top: 50%; transform: translateY(-50%); text-align: center; }
 footer .email { position: absolute; right: 3em; top: 50%; transform: translateY(-50%); }
 footer .footer-container > div { display: inline-block }
-.linkedin ul li { display: inline-block; margin: 0 10px; }
-.linkedin ul li a i { color: #ffbba5; background: #000a53; border-radius: 100%; padding: 5px 6px; }
+footer .linkedin ul li { display: inline-block; margin: 0 10px; }
+.linkedin ul li a img { width: 30px; vertical-align: middle; }
 .linkedin ul li a span { color: #000a53; margin: 0 10px;}
 
