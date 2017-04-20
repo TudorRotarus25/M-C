@@ -66,8 +66,8 @@ header .top-nav .navigation-content .links li { display: inline-block; }
 header .top-nav .navigation-content .links li a { padding: 19px 0; margin: 0 1em; font-size: 1.4em; letter-spacing: 2px; font-weight: bold;  color: #000a53; text-decoration: none; transition: 0.1s; }
 header .top-nav .navigation-content .links li a.selected,
 header .top-nav .navigation-content .links li a:hover { border-bottom: 5px solid #000a53; }
-header .linkedin { font-size: 35px; position: absolute; top: 18px; right: 1.5em; }
-header .linkedin ul li { display: inline-block; margin: 0 15px; }
+header .linkedin { font-size: 35px; position: absolute; top: 18px; right: 1.7em; }
+header .linkedin ul li { display: inline-block; margin: 0 5px; }
 header .linkedin ul li a img { height: 45px; width: 45px; transition: 0.1s; }
 /*header .linkedin ul li a:hover img { opacity: 0.3; }*/
 
@@ -131,8 +131,8 @@ header .linkedin ul li a img { height: 45px; width: 45px; transition: 0.1s; }
 
 /*  CONTACT US  */
 .contact-head { margin-bottom: 20px; }
-.contact-head h2 { font-size: 4em; margin-bottom: 10px; padding-right: 10px; }
-.contact-head p { font-size: 1.3em; margin-bottom: 15px; padding-right: 10px; }
+.contact-head h2 { font-size: 4em; margin-bottom: 10px; padding-right: 10px; padding-left: 7px; }
+.contact-head p { font-size: 1.3em; margin-bottom: 15px; padding-right: 10px; padding-left: 7px; }
 
 /*  FOOTER  */
 footer { position: relative; background: #ffbba5; height: 69px; color: #000a53; font-family: Acid; font-weight: bold; letter-spacing: 2px; font-size: 1.3em; }
