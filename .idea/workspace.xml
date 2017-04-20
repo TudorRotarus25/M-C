@@ -2,71 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec1fde87-8ae7-43b2-8ec9-70505e5ad7ed" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/10. Virtualcards - page.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/11. Cemoi - page1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/11. Cemoi - page2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/11. Cemoi - page3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/11. Cemoi - page4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/12. Printerique - page1.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/12. Printerique - page2.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/12. Printerique - page3.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/12. Printerique - page4.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/13. Whynote - page1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/13. Whynote - page2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/13. Whynote - page3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/14. Aliens - page1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/14. Aliens - page2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/14. Aliens - page3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/14. Aliens - page4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/2. Lynx - page1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/2. Lynx - page2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/2. Lynx - page3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/2.Lynx - page4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/3. Mubi - page.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/4. Colgate - page1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/4. Colgate - page2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/4. Colgate - page3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/5. Makaa - page1jpg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/5. Makaa - page2.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/5. Makaa - page3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/5. Makaa - page4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/5. Makaa - page5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/6. Prizm - page1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/6. Prizm - page2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/6. Prizm - page3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/6. Prizm - page4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/6. Prizm - page5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/6. Prizm - page6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/6. Prizm - page7.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/8. The Great Observatory - page1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/8. The Great Observatory - page2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/8. The Great Observatory - page3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/9. The Great Observatory  - page1.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/9. The Great Observatory  - page2.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/9. The Great Observatory  - page3.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/9. The Great Observatory  - page4.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/9. The Great Observatory  - page5.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/9. The Great Observatory  - page6.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/9. The Great Observatory  - page7.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/9. The Great Observatory  - page8.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/work/9. The Great Observatory  - page9.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/cemoi.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/great-observatory.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/great-observatory2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/leicester.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/lynx.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/makaa.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/mubi.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/okazii.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/printerique.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/virtual-cards.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/whynote.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/antic-pubs.html" afterPath="$PROJECT_DIR$/work/antic-pubs.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/antic-pubs/1. Jukebox collective - page.png" afterPath="$PROJECT_DIR$/images/work/1. Jukebox collective - page.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lynx.html" afterPath="$PROJECT_DIR$/work/prizm.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/TAG-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/profile.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/tag.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/TAG.jpg" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/contact-us.html" afterPath="$PROJECT_DIR$/contact.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/antic-pubs.html" afterPath="$PROJECT_DIR$/work/antic-pubs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/cemoi.html" afterPath="$PROJECT_DIR$/work/cemoi.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/great-observatory.html" afterPath="$PROJECT_DIR$/work/great-observatory.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/great-observatory2.html" afterPath="$PROJECT_DIR$/work/great-observatory2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/leicester.html" afterPath="$PROJECT_DIR$/work/leicester.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/lynx.html" afterPath="$PROJECT_DIR$/work/lynx.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/makaa.html" afterPath="$PROJECT_DIR$/work/makaa.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/mubi.html" afterPath="$PROJECT_DIR$/work/mubi.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/okazii.html" afterPath="$PROJECT_DIR$/work/okazii.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/printerique.html" afterPath="$PROJECT_DIR$/work/printerique.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/prizm.html" afterPath="$PROJECT_DIR$/work/prizm.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/virtual-cards.html" afterPath="$PROJECT_DIR$/work/virtual-cards.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/whynote.html" afterPath="$PROJECT_DIR$/work/whynote.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -81,24 +37,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="lynx.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work/lynx.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
-              <caret line="161" column="16" lean-forward="false" selection-start-line="161" selection-start-column="16" selection-end-line="161" selection-end-column="16" />
-              <folding>
-                <element signature="n#style#0;n#span#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#a#3;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#a#4;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="makaa.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/work/makaa.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="62" column="31" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="132" selection-end-column="7" />
+            <state relative-caret-position="390">
+              <caret line="26" column="47" lean-forward="false" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -107,18 +50,8 @@
       <file leaf-file-name="okazii.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/work/okazii.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="105" column="26" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="153" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="great-observatory.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/work/great-observatory.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="65" column="32" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="130" selection-end-column="7" />
+            <state relative-caret-position="330">
+              <caret line="22" column="33" lean-forward="false" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -127,28 +60,38 @@
       <file leaf-file-name="great-observatory2.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/work/great-observatory2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="71" column="98" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="135" selection-end-column="7" />
+            <state relative-caret-position="390">
+              <caret line="26" column="48" lean-forward="false" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="virtual-cards.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/work/virtual-cards.html">
+      <file leaf-file-name="leicester.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work/leicester.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="82" column="20" lean-forward="false" selection-start-line="82" selection-start-column="20" selection-end-line="85" selection-end-column="26" />
+            <state relative-caret-position="390">
+              <caret line="26" column="47" lean-forward="false" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cemoi.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/work/cemoi.html">
+      <file leaf-file-name="makaa.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work/makaa.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="63" column="26" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="131" selection-end-column="7" />
+            <state relative-caret-position="360">
+              <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mubi.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work/mubi.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="41" lean-forward="false" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -157,28 +100,38 @@
       <file leaf-file-name="printerique.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/work/printerique.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="57" column="17" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="125" selection-end-column="7" />
+            <state relative-caret-position="390">
+              <caret line="26" column="47" lean-forward="false" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="whynote.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="prizm.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work/prizm.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="virtual-cards.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work/virtual-cards.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="30" lean-forward="false" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="whynote.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/work/whynote.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="65" column="32" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="124" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="leicester.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/work/leicester.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+            <state relative-caret-position="780">
+              <caret line="52" column="20" lean-forward="true" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -213,13 +166,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/contact-us.html" />
         <option value="$PROJECT_DIR$/antic-pubs.html" />
         <option value="$PROJECT_DIR$/mubi.html" />
         <option value="$PROJECT_DIR$/makaa.html" />
         <option value="$PROJECT_DIR$/lynx.html" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/prizm.html" />
         <option value="$PROJECT_DIR$/okazii.html" />
         <option value="$PROJECT_DIR$/great-observatory.html" />
@@ -231,7 +181,23 @@
         <option value="$PROJECT_DIR$/whynote.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/leicester.html" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/contact-us.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/work/antic-pubs.html" />
+        <option value="$PROJECT_DIR$/work/cemoi.html" />
+        <option value="$PROJECT_DIR$/work/great-observatory.html" />
+        <option value="$PROJECT_DIR$/work/great-observatory2.html" />
         <option value="$PROJECT_DIR$/work/leicester.html" />
+        <option value="$PROJECT_DIR$/work/lynx.html" />
+        <option value="$PROJECT_DIR$/work/makaa.html" />
+        <option value="$PROJECT_DIR$/work/mubi.html" />
+        <option value="$PROJECT_DIR$/work/okazii.html" />
+        <option value="$PROJECT_DIR$/work/printerique.html" />
+        <option value="$PROJECT_DIR$/work/prizm.html" />
+        <option value="$PROJECT_DIR$/work/virtual-cards.html" />
+        <option value="$PROJECT_DIR$/work/whynote.html" />
       </list>
     </option>
   </component>
@@ -277,6 +243,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="M-C" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="M-C" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="M-C" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="work" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -347,11 +327,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/work" />
       <recent name="$PROJECT_DIR$/images/work" />
       <recent name="$PROJECT_DIR$/images/lynx" />
       <recent name="$PROJECT_DIR$/images/antic-pubs" />
-      <recent name="$PROJECT_DIR$/images" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
@@ -436,7 +416,7 @@
       <workItem from="1492623957257" duration="7623000" />
       <workItem from="1492639719764" duration="4014000" />
       <workItem from="1492675700194" duration="1059000" />
-      <workItem from="1492711221751" duration="8010000" />
+      <workItem from="1492711221751" duration="11602000" />
     </task>
     <task id="LOCAL-00001" summary="Finished main page">
       <created>1492636596972</created>
@@ -452,23 +432,30 @@
       <option name="project" value="LOCAL" />
       <updated>1492646023921</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="filled work pages with content">
+      <created>1492722814951</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1492722814951</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31674000" />
+    <option name="totallyTimeSpent" value="35266000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="-257" width="1920" height="1057" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21565495" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21565495" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -490,24 +477,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Finished main page" />
     <MESSAGE value="started work sub-pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="started work sub-pages" />
+    <MESSAGE value="filled work pages with content" />
+    <option name="LAST_COMMIT_MESSAGE" value="filled work pages with content" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#a#3;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#a#4;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1500">
@@ -564,7 +541,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact-us.html">
+    <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
@@ -617,7 +594,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact-us.html">
+    <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="36" lean-forward="false" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
@@ -660,13 +637,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact-us.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="37" lean-forward="false" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/icons/EMAIL-ICON.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -698,14 +668,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/work/2. Lynx - page2.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -716,97 +678,9 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/work/antic-pubs.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-480">
-          <caret line="40" column="28" lean-forward="true" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/work/lynx.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="125" column="152" lean-forward="true" selection-start-line="125" selection-start-column="152" selection-end-line="125" selection-end-column="152" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="95" column="59" lean-forward="true" selection-start-line="95" selection-start-column="59" selection-end-line="95" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/work/prizm.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-105">
-          <caret line="77" column="19" lean-forward="false" selection-start-line="77" selection-start-column="19" selection-end-line="77" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/work/mubi.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="118" column="62" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="164" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/work/makaa.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="62" column="31" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="132" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/work/9. The Great Observatory  - page1.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/work/great-observatory.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="65" column="32" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="130" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/work/okazii.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="105" column="26" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="153" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/work/great-observatory2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="71" column="98" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="135" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/work/cemoi.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="63" column="26" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="131" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/work/printerique.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="57" column="17" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="125" selection-end-column="7" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -820,26 +694,140 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/work/whynote.html">
+    <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="65" column="32" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="124" selection-end-column="7" />
+        <state relative-caret-position="375">
+          <caret line="25" column="3" lean-forward="false" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/work/virtual-cards.html">
+    <entry file="file://$PROJECT_DIR$/images/TAG.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/tag.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="82" column="20" lean-forward="false" selection-start-line="82" selection-start-column="20" selection-end-line="85" selection-end-column="26" />
+        <state relative-caret-position="1322">
+          <caret line="134" column="53" lean-forward="false" selection-start-line="134" selection-start-column="53" selection-end-line="134" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="44" lean-forward="true" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/antic-pubs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/cemoi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="48" lean-forward="false" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/great-observatory.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="48" lean-forward="false" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/great-observatory2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="48" lean-forward="false" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/work/leicester.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="47" lean-forward="false" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/lynx.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="47" lean-forward="false" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/makaa.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/mubi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="41" lean-forward="false" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/okazii.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="33" lean-forward="false" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/printerique.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="47" lean-forward="false" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/prizm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/virtual-cards.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="30" lean-forward="false" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/whynote.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="20" lean-forward="true" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
           <folding />
         </state>
       </provider>
