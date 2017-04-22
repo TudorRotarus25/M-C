@@ -55,7 +55,7 @@ header .top-nav .navigation-content .links { position: absolute; top: 50%; left:
 header .top-nav .navigation-content .links li { display: inline-block; }
 header .top-nav .navigation-content .links li a { padding: 19px 0; margin: 0 1em; font-size: 1.4em; letter-spacing: 2px; font-weight: bold;  color: #000a53; text-decoration: none; transition: 0.1s; }
 header .top-nav .navigation-content .links li a.selected,
-header .top-nav .navigation-content .links li a:hover { border-bottom: 5px solid #000a53; }
+header .top-nav .navigation-content .links li a:hover { border-bottom: 5px solid #000a53; cursor: pointer; }
 header .linkedin { font-size: 35px; position: absolute; top: 18px; right: 1.7em; }
 header .linkedin ul li { display: inline-block; margin: 0 5px; }
 header .linkedin ul li a img { height: 45px; width: 45px; transition: 0.1s; }
