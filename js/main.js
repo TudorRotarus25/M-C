@@ -1,4 +1,5 @@
 function Scroll() { }
+function MobileNav() { }
 
 Scroll.prototype = {
     initialize: function () {
@@ -40,9 +41,39 @@ Scroll.prototype = {
     }
 };
 
+MobileNav.prototype = {
+    initialise: function () {
+        this.openButton = $('#open-menu-button');
+        this.closeButton = $('#close-menu-button');
+        this.navigationContent = $('.navigation-content');
+        this.links = $('.links a');
+        this.initialiseListeners();
+    },
+    initialiseListeners: function () {
+        var scope = this;
+        this.openButton.on('click', function () {
+            scope.navigationContent.show();
+            scope.openButton.hide();
+            scope.closeButton.show();
+        });
+        this.closeButton.on('click', function () {
+            scope.navigationContent.hide();
+            scope.openButton.show();
+            scope.closeButton.hide();
+        });
+        this.links.on('click', function () {
+            scope.navigationContent.hide();
+            scope.openButton.show();
+            scope.closeButton.hide();
+        })
+    }
+};
+
 $(document).ready(function () {
     var scroll = new Scroll();
     scroll.initialize();
+    var mobileNav = new MobileNav();
+    mobileNav.initialise();
 });
 
 
