@@ -62,10 +62,15 @@ MobileNav.prototype = {
             scope.closeButton.hide();
         });
         this.links.on('click', function () {
-            scope.navigationContent.hide();
-            scope.openButton.show();
-            scope.closeButton.hide();
+            if (scope.isMobileTheme()) {
+                scope.navigationContent.hide();
+                scope.openButton.show();
+                scope.closeButton.hide();
+            }
         })
+    },
+    isMobileTheme: function () {
+        return ($('.mobile-buttons').is(":visible"));
     }
 };
 
