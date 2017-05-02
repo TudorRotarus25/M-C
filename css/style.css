@@ -95,6 +95,8 @@ header .mobile-buttons img { height: 70px; }
 .main-col .text-on-right .text-container .work-number.two-rows-bottom-thick { right: -14px; }
 .main-col .text-on-left .text-container .work-number { transform: translateY(-50%) rotate(90deg); left: 0; }
 .main-col .text-on-left .text-container .work-number.two-rows-bottom-thin { left: -7px; }
+.bottle { text-align: center; }
+.bottle img { max-width: 600px; }
 
 #about { margin-top: 50px; }
 .label-col { padding: 0 3em; }
@@ -211,4 +213,6 @@ footer .linkedin ul li { display: inline-block; margin: 0 10px; }
     .main-col .text-on-left .text-container .work-number.two-rows-bottom-thin { left: 0; }
     .main-col .text-container .work-number.two-rows-bottom-thick { width: 49px; }
     .main-col .text-on-right .text-container .work-number.two-rows-bottom-thick { right: 0; }
+    .main-col .text-on-left .text-container .text-container-centered { padding-left: 60px; }
+    .main-col .text-on-right .text-container .text-container-centered { padding-right: 60px; }
 }
