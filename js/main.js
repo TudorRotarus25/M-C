@@ -1,5 +1,6 @@
 function Scroll() { }
 function MobileNav() { }
+function Manager() { }
 
 Scroll.prototype = {
     initialize: function () {
@@ -20,18 +21,20 @@ Scroll.prototype = {
                 scope.scrollTo(scope.aboutSection);
             });
 
-            $(window).scroll(function () {
-                var workTop = scope.workSection.offset().top - 200,
-                    aboutTop = scope.aboutSection.offset().top - 200,
-                    windowScroll = $(this).scrollTop();
-                if (windowScroll >= workTop && windowScroll < aboutTop) {
-                    scope.workAnchor.addClass('selected');
-                    scope.aboutAnchor.removeClass('selected');
-                } else if (windowScroll >= aboutTop) {
-                    scope.workAnchor.removeClass('selected');
-                    scope.aboutAnchor.addClass('selected');
-                }
-            });
+            if ($('body').hasClass('main-page')) {
+                $(window).scroll(function () {
+                    var workTop = scope.workSection.offset().top - 200,
+                        aboutTop = scope.aboutSection.offset().top - 200,
+                        windowScroll = $(this).scrollTop();
+                    if (windowScroll >= workTop && windowScroll < aboutTop) {
+                        scope.workAnchor.addClass('selected');
+                        scope.aboutAnchor.removeClass('selected');
+                    } else if (windowScroll >= aboutTop) {
+                        scope.workAnchor.removeClass('selected');
+                        scope.aboutAnchor.addClass('selected');
+                    }
+                });
+            }
         }
     },
     scrollTo: function (element) {
@@ -74,11 +77,25 @@ MobileNav.prototype = {
     }
 };
 
+Manager.prototype = {
+    init: function () {
+        var scroll = new Scroll();
+        scroll.initialize();
+        var mobileNav = new MobileNav();
+        mobileNav.initialise();
+    },
+    isMainPage: function () {
+        return $('body').hasClass('main-page');
+    }
+};
+
+Manager.plugin = {
+
+}
+
 $(document).ready(function () {
-    var scroll = new Scroll();
-    scroll.initialize();
-    var mobileNav = new MobileNav();
-    mobileNav.initialise();
+    var manager = new Manager();
+    manager.init();
 });
 
 
